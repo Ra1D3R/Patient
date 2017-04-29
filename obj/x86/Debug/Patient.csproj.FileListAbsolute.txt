@@ -1,0 +1,89 @@
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\audio_waves.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\blue_sinus.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\boingball_2.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\color_lines_2.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\color_lines.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\color_nova.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\dbl_sinus.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\dist_plasma.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\heart.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\lightballs.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\multi_col_sine.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\particles.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\pixel_shader_1.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\raster_sin.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\shader5.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\shader6.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\star.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\star2.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\titan.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\vertex_shader.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\boingball.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\Patient.exe
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\Patient.pdb
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\OpenTK.xml
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\obj\x86\Debug\Patient.Form1.resources
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\obj\x86\Debug\Patient.Properties.Resources.resources
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\obj\x86\Debug\Patient.exe
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\obj\x86\Debug\Patient.pdb
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\elevated.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\gameroad.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\blobs_mod.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\blah.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\circular_tunnel.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\cube_morph.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\dbl_square_planes.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\nebula.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\tunnel.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\lemmings.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\obj\x86\Debug\Patient.csproj.GenerateResource.Cache
+C:\upload\Patient\bin\Debug\shaders\audio_waves.glsl
+C:\upload\Patient\bin\Debug\shaders\blah.glsl
+C:\upload\Patient\bin\Debug\shaders\blobs_mod.glsl
+C:\upload\Patient\bin\Debug\shaders\blue_sinus.glsl
+C:\upload\Patient\bin\Debug\shaders\boingball_2.glsl
+C:\upload\Patient\bin\Debug\shaders\circular_tunnel.glsl
+C:\upload\Patient\bin\Debug\shaders\color_lines_2.glsl
+C:\upload\Patient\bin\Debug\shaders\color_lines.glsl
+C:\upload\Patient\bin\Debug\shaders\color_nova.glsl
+C:\upload\Patient\bin\Debug\shaders\cube_morph.glsl
+C:\upload\Patient\bin\Debug\shaders\dbl_sinus.glsl
+C:\upload\Patient\bin\Debug\shaders\dbl_square_planes.glsl
+C:\upload\Patient\bin\Debug\shaders\dist_plasma.glsl
+C:\upload\Patient\bin\Debug\shaders\gameroad.glsl
+C:\upload\Patient\bin\Debug\shaders\heart.glsl
+C:\upload\Patient\bin\Debug\shaders\lemmings.glsl
+C:\upload\Patient\bin\Debug\shaders\lightballs.glsl
+C:\upload\Patient\bin\Debug\shaders\multi_col_sine.glsl
+C:\upload\Patient\bin\Debug\shaders\nebula.glsl
+C:\upload\Patient\bin\Debug\shaders\particles.glsl
+C:\upload\Patient\bin\Debug\shaders\pixel_shader_1.glsl
+C:\upload\Patient\bin\Debug\shaders\raster_sin.glsl
+C:\upload\Patient\bin\Debug\shaders\shader5.glsl
+C:\upload\Patient\bin\Debug\shaders\shader6.glsl
+C:\upload\Patient\bin\Debug\shaders\star.glsl
+C:\upload\Patient\bin\Debug\shaders\star2.glsl
+C:\upload\Patient\bin\Debug\shaders\titan.glsl
+C:\upload\Patient\bin\Debug\shaders\tunnel.glsl
+C:\upload\Patient\bin\Debug\shaders\vertex_shader.glsl
+C:\upload\Patient\bin\Debug\shaders\boingball.glsl
+C:\upload\Patient\bin\Debug\shaders\elevated.glsl
+C:\upload\Patient\bin\Debug\Patient.exe
+C:\upload\Patient\bin\Debug\Patient.pdb
+C:\upload\Patient\obj\x86\Debug\Patient.Form1.resources
+C:\upload\Patient\obj\x86\Debug\Patient.Properties.Resources.resources
+C:\upload\Patient\obj\x86\Debug\Patient.csproj.GenerateResource.Cache
+C:\upload\Patient\obj\x86\Debug\Patient.exe
+C:\upload\Patient\obj\x86\Debug\Patient.pdb
+C:\upload\Patient\obj\x86\Debug\Patient.csprojResolveAssemblyReference.cache
+C:\upload\Patient\bin\Debug\shaders\tut2d.glsl
+C:\upload\Patient\bin\Debug\OpenTK.dll
+C:\upload\Patient\bin\Debug\OpenTK.GLControl.dll
+C:\upload\Patient\bin\Debug\OpenTK.pdb
+C:\upload\Patient\bin\Debug\OpenTK.xml
+C:\upload\Patient\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\shaders\tut2d.glsl
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\bin\Debug\OpenTK.pdb
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\obj\x86\Debug\Patient.csprojResolveAssemblyReference.cache
+C:\Users\Ra1D3R\Documents\Visual Studio 2010\Projects\Patient\obj\x86\Debug\Patient.Form2.resources
